@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursions", "Recursions\Recursions.csproj", "{DEEA7F9A-EF10-4082-9F76-294353331DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching", "Searching\Searching.csproj", "{E5A2F0DC-28E1-4DF3-9F7B-B6A3DCA1C7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartArrays", "SmartArrays\SmartArrays.csproj", "{4744391F-8B8D-4BFD-9978-458B7588AB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEA7F9A-EF10-4082-9F76-294353331DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEA7F9A-EF10-4082-9F76-294353331DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEA7F9A-EF10-4082-9F76-294353331DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEA7F9A-EF10-4082-9F76-294353331DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A2F0DC-28E1-4DF3-9F7B-B6A3DCA1C7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A2F0DC-28E1-4DF3-9F7B-B6A3DCA1C7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A2F0DC-28E1-4DF3-9F7B-B6A3DCA1C7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A2F0DC-28E1-4DF3-9F7B-B6A3DCA1C7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4744391F-8B8D-4BFD-9978-458B7588AB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4744391F-8B8D-4BFD-9978-458B7588AB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4744391F-8B8D-4BFD-9978-458B7588AB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4744391F-8B8D-4BFD-9978-458B7588AB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
