@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Single_List
 {
-    class List
+    public class List
     {
         private Node head;
         private Node tail;
