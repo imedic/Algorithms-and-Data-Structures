@@ -30,7 +30,7 @@ namespace Criteria
 
         private static void DisplayArrayToConsole(int[] array)
         {
-            array.ToList().ForEach(Console.WriteLine);
+            Array.ForEach(array, Console.WriteLine);
             Console.Write("\n");
         }
 

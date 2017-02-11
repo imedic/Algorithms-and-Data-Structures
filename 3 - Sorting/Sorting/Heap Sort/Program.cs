@@ -20,7 +20,7 @@ namespace Heap_Sort
 
         private static void DisplayArrayToConsole(int[] array)
         {
-            array.ToList().ForEach(s => Console.Write("{0} ", s));
+            Array.ForEach(array, s => Console.Write("{0} ", s));
             Console.WriteLine();
         }
     }

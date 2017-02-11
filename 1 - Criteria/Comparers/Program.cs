@@ -32,7 +32,7 @@ namespace Comparers
 
         private static void DisplayArrayToConsole(object[] array)
         {
-            array.ToList().ForEach(Console.WriteLine);
+            Array.ForEach(array, Console.WriteLine);
             Console.WriteLine("---------------");   
         }
     }

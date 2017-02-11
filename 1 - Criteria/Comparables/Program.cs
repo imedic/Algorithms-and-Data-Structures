@@ -23,8 +23,7 @@ namespace Comparables
 
             Bubble.Sort(students);
 
-            students.ToList().ForEach(Console.WriteLine);
-
+            Array.ForEach(students, Console.WriteLine);
         }
     }
 }
